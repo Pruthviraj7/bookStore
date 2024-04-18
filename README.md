@@ -36,7 +36,8 @@ To run the application locally:
 - **Express:** A web application framework for Node.js.
 - **Mongoose:** An Object Data Modeling (ODM) library for MongoDB and Node.js.
 
-## Data Files
+## Data Files 
+- Stored in the public folder of the Frontend folder
 - **books.json:** Contains data for books available in the bookstore.
 - **users.json:** Contains user data used in the login process.
 
