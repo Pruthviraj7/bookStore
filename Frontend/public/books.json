@@ -1,0 +1,134 @@
+[
+    {
+      "id": 1,
+      "name": "John Smith",
+      "price": 12.99,
+      "category": "Mystery",
+      "image": "https://img.freepik.com/free-vector/stack-books_24911-115312.jpg?t=st=1713311740~exp=1713315340~hmac=46ad74198ff2c652f03b65bc5fef0c23d6ac547f087d6cf63958fdd845d88070&w=826",
+      "title": "The Mystery of the Lost Treasure"
+    },
+    {
+      "id": 2,
+      "name": "Emily Johnson",
+      "price": 9.99,
+      "category": "Children's Fiction",
+      "image": "https://img.freepik.com/free-vector/stack-books_24911-115312.jpg?t=st=1713311740~exp=1713315340~hmac=46ad74198ff2c652f03b65bc5fef0c23d6ac547f087d6cf63958fdd845d88070&w=826",
+      "title": "The Secret Garden"
+    },
+    {
+      "id": 3,
+      "name": "Michael Brown",
+      "price": 29.99,
+      "category": "Programming",
+      "image": "https://img.freepik.com/free-vector/stack-books_24911-115312.jpg?t=st=1713311740~exp=1713315340~hmac=46ad74198ff2c652f03b65bc5fef0c23d6ac547f087d6cf63958fdd845d88070&w=826",
+      "title": "Programming 101: Python for Beginners"
+    },
+    {
+      "id": 4,
+      "name": "Emma Wilson",
+      "price": 15.50,
+      "category": "Self-Help",
+      "image": "https://img.freepik.com/free-vector/stack-books_24911-115312.jpg?t=st=1713311740~exp=1713315340~hmac=46ad74198ff2c652f03b65bc5fef0c23d6ac547f087d6cf63958fdd845d88070&w=826",
+      "title": "The Art of Mindfulness"
+    },
+    {
+      "id": 5,
+      "name": "David Martinez",
+      "price": 24.99,
+      "category": "History",
+      "image": "https://img.freepik.com/free-vector/stack-books_24911-115312.jpg?t=st=1713311740~exp=1713315340~hmac=46ad74198ff2c652f03b65bc5fef0c23d6ac547f087d6cf63958fdd845d88070&w=826",
+      "title": "World History: A Brief Introduction"
+    },
+    {
+      "id": 6,
+      "name": "Sophia Lee",
+      "price": 19.99,
+      "category": "Cooking",
+      "image": "https://img.freepik.com/free-vector/stack-books_24911-115312.jpg?t=st=1713311740~exp=1713315340~hmac=46ad74198ff2c652f03b65bc5fef0c23d6ac547f087d6cf63958fdd845d88070&w=826",
+      "title": "Cooking Without Limits: A Culinary Adventure"
+    },
+    {
+      "id": 7,
+      "name": "Oliver Taylor",
+      "price": 34.99,
+      "category": "Health & Fitness",
+      "image": "https://img.freepik.com/free-vector/stack-books_24911-115312.jpg?t=st=1713311740~exp=1713315340~hmac=46ad74198ff2c652f03b65bc5fef0c23d6ac547f087d6cf63958fdd845d88070&w=826",
+      "title": "The Ultimate Guide to Fitness"
+    },
+    {
+      "id": 8,
+      "name": "Isabella Rodriguez",
+      "price": 11.99,
+      "category": "Self-Help",
+      "image": "https://img.freepik.com/free-vector/stack-books_24911-115312.jpg?t=st=1713311740~exp=1713315340~hmac=46ad74198ff2c652f03b65bc5fef0c23d6ac547f087d6cf63958fdd845d88070&w=826",
+      "title": "The Power of Positive Thinking"
+    },
+    {
+      "id": 9,
+      "name": "Ethan Clark",
+      "price": 8.50,
+      "category": "Classic Literature",
+      "image": "https://img.freepik.com/free-vector/stack-books_24911-115312.jpg?t=st=1713311740~exp=1713315340~hmac=46ad74198ff2c652f03b65bc5fef0c23d6ac547f087d6cf63958fdd845d88070&w=826",
+      "title": "The Great Gatsby"
+    },
+    {
+      "id": 10,
+      "name": "Ava White",
+      "price": 27.99,
+      "category": "Science",
+      "image": "https://img.freepik.com/free-vector/stack-books_24911-115312.jpg?t=st=1713311740~exp=1713315340~hmac=46ad74198ff2c652f03b65bc5fef0c23d6ac547f087d6cf63958fdd845d88070&w=826",
+      "title": "Introduction to Astrophysics"
+    }
+    ,
+      {
+          "id": 11,
+          "name": "The Art of Fiction",
+          "price": 12.99,
+          "category": "Free",
+          "image": "https://img.freepik.com/free-photo/book-composition-with-open-book_23-2147690555.jpg?t=st=1713476306~exp=1713479906~hmac=591be885e717be9016c41e115ca00e3d2130b74079ce1980e27f6348b5f5ba45&w=996",
+          "title": "The Art of Fiction"
+      },
+      {
+          "id": 12,
+          "name": "The Secret Garden",
+          "price": 9.99,
+          "category": "Free",
+          "image": "https://img.freepik.com/free-photo/book-composition-with-open-book_23-2147690555.jpg?t=st=1713476306~exp=1713479906~hmac=591be885e717be9016c41e115ca00e3d2130b74079ce1980e27f6348b5f5ba45&w=996",
+          "title": "The Secret Garden"
+      },
+      {
+          "id": 13,
+          "name": "The Adventures of Tom Sawyer",
+          "price": 8.49,
+          "category": "Free",
+          "image": "https://img.freepik.com/free-photo/book-composition-with-open-book_23-2147690555.jpg?t=st=1713476306~exp=1713479906~hmac=591be885e717be9016c41e115ca00e3d2130b74079ce1980e27f6348b5f5ba45&w=996",
+          "title": "The Adventures of Tom Sawyer"
+      },
+      {
+          "id": 14,
+          "name": "Pride and Prejudice",
+          "price": 10.99,
+          "category": "Free",
+          "image": "https://img.freepik.com/free-photo/book-composition-with-open-book_23-2147690555.jpg?t=st=1713476306~exp=1713479906~hmac=591be885e717be9016c41e115ca00e3d2130b74079ce1980e27f6348b5f5ba45&w=996",
+          "title": "Pride and Prejudice"
+      },
+      {
+          "id": 15,
+          "name": "To Kill a Mockingbird",
+          "price": 11.49,
+          "category": "Free",
+          "image": "https://img.freepik.com/free-photo/book-composition-with-open-book_23-2147690555.jpg?t=st=1713476306~exp=1713479906~hmac=591be885e717be9016c41e115ca00e3d2130b74079ce1980e27f6348b5f5ba45&w=996",
+          "title": "To Kill a Mockingbird"
+      },
+      {
+          "id": 16,
+          "name": "Jane Eyre",
+          "price": 13.99,
+          "category": "Free",
+          "image": "https://img.freepik.com/free-photo/book-composition-with-open-book_23-2147690555.jpg?t=st=1713476306~exp=1713479906~hmac=591be885e717be9016c41e115ca00e3d2130b74079ce1980e27f6348b5f5ba45&w=996",
+          "title": "Jane Eyre"
+      }
+  ]
+  
+  
+  
